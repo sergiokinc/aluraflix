@@ -21,7 +21,7 @@ export function PieDePagina() {
     return (
         <Footer>
             <FooterContenido>
-                &copy; 2025. Desarollador por <LinkExterno href="">Sergio Aguiar</LinkExterno>
+                &copy; 2025. Desarollado por <LinkExterno href="">Sergio Aguiar</LinkExterno>
             </FooterContenido>
         </Footer>
     );
